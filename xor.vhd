@@ -14,3 +14,9 @@ architecture xor_arc of xor is
 begin
 o_f <= i_a xor i_b;
 end xor_arc;
+
+  
+  
+  
+Sveiki visi
+  
